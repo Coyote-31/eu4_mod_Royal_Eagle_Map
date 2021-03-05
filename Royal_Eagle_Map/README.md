@@ -3,7 +3,7 @@
 
 # **`Royal Eagle Map`**
 
-![Royal Eagle Map Logo](https://raw.githubusercontent.com/Coyote-31/eu4_mod_Royal_Eagle_Map/master/Royal_Eagle_map/thumbnail.png)
+![Royal Eagle Map Logo](https://raw.githubusercontent.com/Coyote-31/eu4_mod_Royal_Eagle_Map/master/Royal_Eagle_Map/thumbnail.png)
 
 ## 📄 Description
 
