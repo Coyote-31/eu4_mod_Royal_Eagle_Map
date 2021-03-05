@@ -1,5 +1,5 @@
 name="Royal Eagle Map (dev)"
-version="1.0.0"
+version="1.0.1"
 tags={
 	"Fixes"
 	"Graphics"
