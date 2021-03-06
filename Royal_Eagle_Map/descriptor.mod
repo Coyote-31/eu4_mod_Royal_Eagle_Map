@@ -8,5 +8,4 @@ tags={
 }
 picture="thumbnail.png"
 supported_version="1.30.4.*"
-path="mod/Royal_Eagle_Map"
 remote_file_id="2415840967"
