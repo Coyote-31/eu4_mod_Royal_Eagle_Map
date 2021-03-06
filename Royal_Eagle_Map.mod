@@ -1,4 +1,4 @@
-name="Royal Eagle Map (dev)"
+name="Royal Eagle Map"
 version="1.0.1"
 tags={
 	"Fixes"
